@@ -1,10 +1,4 @@
 # NeuralNetworks
-
-REPORT 
- 
- 
-Student id: 1002175284 
-Name: Saikiranreddy Peddavootla 
  
 BASIC CNN: 
  
